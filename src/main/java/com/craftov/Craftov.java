@@ -14,7 +14,7 @@ import software.bernie.geckolib3.GeckoLib;
 
 public class Craftov implements ModInitializer {
 	public static final ItemGroup ALTYN_GROUP = FabricItemGroupBuilder.create(
-					new Identifier("craftov", "altyncroup"))
+					new Identifier("craftov", "altyngroup"))
 			.icon(() -> new ItemStack(RegisterItems.ALTYN_HELMET))
 			.build();
 

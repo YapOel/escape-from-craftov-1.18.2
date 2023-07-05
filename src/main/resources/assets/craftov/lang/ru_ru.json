@@ -1,4 +1,9 @@
 {
   "item.craftov.altyn_helmet": "Шлем Алтын",
-  "item.craftov.tagilla_spawn_egg": "Яйцо призыва Тагиллы"
+  "item.craftov.tagilla_spawn_egg": "Яйцо призыва Тагиллы",
+  "item.craftov.mk47": "MK47 Mutant",
+  "item.craftov.gunparts": "Оружейные части",
+
+
+  "itemGroup.craftov.altyngroup": "Алтын"
 }
