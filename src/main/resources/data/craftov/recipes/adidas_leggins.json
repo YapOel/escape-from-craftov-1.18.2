@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XWX",
+    "W#W",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "X": {
+      "item": "minecraft:black_dye"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "craftov:adidas_leggins",
+    "count": 1
+  }
+}
