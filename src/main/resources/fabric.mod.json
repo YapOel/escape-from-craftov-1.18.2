@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "-"
 	},
-	"license": "CC0-1.0",
+	"license": "MiT License",
 	"icon": "assets/craftov/icon.png",
 	"environment": "*",
 	"entrypoints": {
